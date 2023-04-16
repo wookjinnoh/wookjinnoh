@@ -10,6 +10,6 @@
 Posts can be found at https://velog.io/@wookjinnoh
 </section>
 
-#### coding this past week 🏃
+#### Coding this past week 🏃
 
 [![wakatime](https://wakatime.com/badge/user/5fa0b678-d7d1-4166-bdad-7a4dcca4c6c2.svg)](https://wakatime.com/@5fa0b678-d7d1-4166-bdad-7a4dcca4c6c2)
